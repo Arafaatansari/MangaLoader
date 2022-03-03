@@ -1,4 +1,6 @@
-## MangaLoader (Bot)
+### Deploy to heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)## MangaLoader (Bot)
 ---
 
 Telegram RoBot to Upload manga/comic.
@@ -23,18 +25,3 @@ Telegram RoBot to Upload manga/comic.
 
 `https://komikid.com/manga/updater -s 5 -c 5`  -  `-s 5` will skip 5 chapters and `-c 5` will start from chapter 6-10
 
-for more help, [read this](https://github.com/manga-py/manga-py#downloading-manga)
-
-## Telegram Support:
-
-[![Channel](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://t.me/xTeamBots)
-[![Group](https://img.shields.io/badge/TG-Group-30302f?style=flat&logo=telegram)](https://t.me/xTeamBotsSupport)
-
-## Credits, and Thanks to:
-
-* [Dan Tès](https://t.me/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Jacob Ilias Komissar (@jirassimok)](https://github.com/jirassimok) for his [dir2pdf Tool](https://github.com/jirassimok/dir2pdf)
-* [Sergey Zharkov (@1271)](https://github.com/1271) for his [Manga-py Tool](https://github.com/manga-py/manga-py)
-
-#### LICENSE
-- GPLv3
