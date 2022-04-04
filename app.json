@@ -9,7 +9,7 @@
   ],
   "success_url": "https://github.com/X-Gorn/MangaLoader",
   "website": "https://github.com/X-Gorn",
-  "repository": "https://github.com/Arafaatansari/MangaLoader",
+  "repository": "https://github.com/X-Gorn/MangaLoader",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
